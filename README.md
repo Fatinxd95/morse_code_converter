@@ -29,5 +29,5 @@ Make sure to **download `morse_map.py`** along with the main program.
 This file contains the **Morse code dictionaries** required for the converter to work correctly. ⚠️
 
 ```text
-morse_to_text.py or text_to_morse.py or morse_converter.py
+morse_to_text.py or text_to_morse.py
 morse_map.py  <-- required
